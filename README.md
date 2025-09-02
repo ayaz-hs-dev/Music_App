@@ -58,11 +58,11 @@
 | Feature | Demo |
 |---------|------|
 | Login / Create User | ![create](assets/screenshots/create_profile.jpg) | ![login](assets/screenshots/sign_in.jpg) |
-| Search & Saved Music | ![search](assets/screenshots/search_music.jpg) |
+| Search & Saved Music | ![search](assets/screenshots/serach_music.jpg) |
 | Music Player | ![player](assets/screenshots/music_player.jpg) |
-| Local Music Playback | ![local](assets/screenshots/device_muisc.jpg) |
-| Foreground Notification | ![notification](assets/screenshots/ntification.jpg) |
-| Comments & Favorites | ![favorites](assets/screenshots/saved_music.jpg) |
+| Local Music Playback | ![local](assets/screenshots/device_music.jpg) |
+| Foreground Notification | ![notification](assets/screenshots/notification.jpg) |
+| Comments & Favorites | ![favorites](assets/screenshots/comments.jpg) |
 
 ---
 
