@@ -57,12 +57,12 @@
 
 | Feature | Demo |
 |---------|------|
-| Login / Create User | ![login](link-to-login-gif) |
-| Search & Saved Music | ![search](link-to-search-gif) |
-| Music Player | ![player](link-to-player-gif) |
-| Local Music Playback | ![local](link-to-local-gif) |
-| Foreground Notification | ![notification](link-to-notification-gif) |
-| Comments & Favorites | ![comments](link-to-comments-gif) |
+| Login / Create User | ![create](assets/screenshots/create_profile.jpg) | ![login](assets/screenshots/sign_in.jpg) |
+| Search & Saved Music | ![search](assets/screenshots/search_music.jpg) |
+| Music Player | ![player](assets/screenshots/music_player.jpg) |
+| Local Music Playback | ![local](assets/screenshots/device_muisc.jpg) |
+| Foreground Notification | ![notification](assets/screenshots/ntification.jpg) |
+| Comments & Favorites | ![favorites](assets/screenshots/saved_music.jpg) |
 
 ---
 
